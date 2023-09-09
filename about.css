@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.btn1{
+   width: 200px;
+   height: 40px;
+   color: white;
+   background-color: rgb(247, 4, 4);
+}
+.section4{
+    margin-top: 50px;
+}
+.section8{
+    margin-top: 50px;
+}
+.section1{
+    margin-top: 50px;
+}
+.text{
+    text-align: center;
+}
+.btn{
+    width: 200px;
+    height: 40px;
+    color: white;
+    background-color: rgb(247, 4, 4);
+}
+.pon1{
+    width: 900px;
+    margin-left: 250px;
+ }
+ .btn2{
+    background: #FF4742;
+    border: 1px solid #FF4742;
+    border-radius: 6px;
+    box-shadow: rgba(0, 0, 0, 0.1) 1px 2px 4px;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-block;
+    font-family: nunito,roboto,proxima-nova,"proxima nova",sans-serif;
+    font-size: 16px;
+    font-weight: 800;
+    line-height: 16px;
+    min-height: 40px;
+    outline: 0;
+    padding: 12px 14px;
+    text-align: center;
+    text-rendering: geometricprecision;
+    text-transform: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    vertical-align: middle;
+}
+.one{
+    justify-content: space-around;
+}
